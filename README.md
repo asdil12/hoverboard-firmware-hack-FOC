@@ -1,3 +1,6 @@
+> [!WARNING]
+> Moved to https://codeberg.org/asdil12/hoverboard-firmware-hack-FOC
+
 # hoverboard-firmware-hack-FOC
 [![Build status](https://github.com/EFeru/hoverboard-firmware-hack-FOC/actions/workflows/build_on_commit.yml/badge.svg)](https://github.com/EFeru/hoverboard-firmware-hack-FOC/actions/workflows/build_on_commit.yml)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
